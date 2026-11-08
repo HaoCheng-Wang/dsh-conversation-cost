@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Conversation cost">
+  <defs>
+    <linearGradient id="cc-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f7cf6"/>
+      <stop offset="1" stop-color="#24b3a8"/>
+    </linearGradient>
+    <linearGradient id="cc-coin" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe9a8"/>
+      <stop offset="1" stop-color="#f5b73c"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#cc-bg)"/>
+  <circle cx="32" cy="34" r="17" fill="url(#cc-coin)" stroke="#e09a20" stroke-width="2"/>
+  <circle cx="32" cy="34" r="13.5" fill="none" stroke="#b9741a" stroke-width="1.2" opacity="0.55"/>
+  <path d="M25.5 25.5 32 33.2l6.5-7.7" fill="none" stroke="#7c4a0d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M32 33.2v11.5" fill="none" stroke="#7c4a0d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M26 35.6h12M26 39.4h12" fill="none" stroke="#7c4a0d" stroke-width="3" stroke-linecap="round"/>
+</svg>

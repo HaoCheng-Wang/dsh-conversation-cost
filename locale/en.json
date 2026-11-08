@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Conversation cost",
+    "description": "Shows the estimated peak/off-peak spend of the current conversation below the composer, with the current price period and an automatically refreshed Chinese holiday calendar."
+  }
+}
